@@ -1,9 +1,9 @@
 import React from 'react';
-import {graphql, useStaticQuery} from 'gatsby'
+import {graphql} from 'gatsby'
 import Layout from '../components/layout'
 import Image from 'gatsby-image'
 import {css} from '@emotion/core'
-import styled from '@emotion/styled'
+
 
 
 

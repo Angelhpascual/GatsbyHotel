@@ -18,8 +18,7 @@ const useSeo = () => {
             }
 
     `)
-    console.log(data)
-
+    
     return data.datoCmsSite.globalSeo
 }
 
